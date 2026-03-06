@@ -29,8 +29,7 @@ projeto final/
 
 ### Pagamento via Pix (padrão)
 
-```powershell
-cd "c:\Users\iamdiegoinacio\OneDrive\Documentos\CXVERSO\projeto final"
+```bash
 dotnet run --project src/SistemaPedidos.Host
 ```
 
